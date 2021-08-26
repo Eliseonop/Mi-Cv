@@ -1,0 +1,30 @@
+h1{
+    color: rgb(8, 64, 97);
+}
+header{
+    background-color: lightgreen;
+    border: 2px solid rgb(27, 62, 117);
+    text-align: center;
+}
+main{
+    background-color: azure;
+    border: 2px solid black;
+    text-align: center;
+}
+footer{
+    background-color: rgb(116, 137, 148);
+    border: 2px solid black;
+}
+.redes {
+    text-align: center;
+    margin-bottom: 20px;
+}
+img{
+    border: 2px solid black;
+}
+nav{
+    margin-bottom: 20px;
+}
+a{
+    margin-left: 20px;
+}
